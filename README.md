@@ -1,2 +1,2 @@
 # pastoralemao
-https://treborn07.github.io/pastoralemao/
+https://treborn07.github.io/
